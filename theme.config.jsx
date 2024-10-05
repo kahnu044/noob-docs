@@ -1,7 +1,23 @@
+import React from "react";
+const logo = (
+  <img
+    src="https://developernoob.com/wp-content/uploads/2024/10/NoobDocs.png"
+    width="200px"
+  />
+);
+
 export default {
-    logo: <span>My Nextra Documentation</span>,
-    project: {
-      link: 'https://github.com/shuding/nextra'
-    }
-    // ... other theme options
-  }
+  logo: logo,
+  project: {
+    link: 'https://github.com/kahnu044/noob-docsf'
+  },
+  editLink: {
+    component: null,
+  },
+  feedback: {
+    content: null,
+  },
+  footer: {
+    component: null
+  },
+}
