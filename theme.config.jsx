@@ -9,7 +9,7 @@ const logo = (
 export default {
   logo: logo,
   project: {
-    link: 'https://github.com/kahnu044/noob-docsf'
+    link: 'https://github.com/kahnu044/noob-docs'
   },
   editLink: {
     component: null,
