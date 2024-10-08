@@ -1,3 +1,3 @@
 export default {
-    index: "Introduction"
+    get_statrted: "Get Started"
 }
