@@ -1,4 +1,4 @@
 export default {
-    get_statrted: "Get Started",
+    themes: "Themes",
     plugins: "Plugins"
 }
